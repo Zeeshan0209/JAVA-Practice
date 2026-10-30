@@ -1,9 +1,0 @@
-# Ignore Java compiled files
-*.class
-
-# Ignore build folders
-bin/
-out/
-
-# Ignore VS Code settings
-.vscode/
