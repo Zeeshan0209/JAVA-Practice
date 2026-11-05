@@ -1,3 +1,6 @@
+// In a program, input 3 numbers : A, B and C. You have to output the average of
+// these 3 numbers.
+
 package Practice;
 import java.util.*;
 public class Ques4 {

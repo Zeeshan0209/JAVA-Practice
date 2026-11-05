@@ -6,5 +6,9 @@ public class TypeConversion {
     int a = 25;
     float b = a;
     System.out.println(b); 
+
+    // if we put b on the place of a and then print b it occur error , For example:
+    // float a = 25;
+    // int b = a;
     }
 }
